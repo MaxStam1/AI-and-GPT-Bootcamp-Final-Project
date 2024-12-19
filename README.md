@@ -21,4 +21,4 @@ This project analyzes financial news articles using Natural Language Processing 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/financial-news-analyzer.git
+git clone https://github.com/MaxStam1/AI-and-GPT-Bootcamp-Final-Project.git
