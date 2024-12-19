@@ -7,7 +7,7 @@ This project analyzes financial news articles using Natural Language Processing 
 - Generate concise summaries of news articles
 - Analyze sentiment using both VADER and HuggingFace models
 - Classify articles into different financial topics
-- Create a market sentiment score similar to the Fear and Greed Index
+- Create a market sentiment score similar to the CNN's Fear and Greed Index
 - Visualize results using interactive plots
 
 ### Features
