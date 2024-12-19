@@ -132,7 +132,7 @@ Summary: U.S. stocks rose in 2024, fueled by the unprecedented surge of artifici
 Market Sentiment: 8.7/10 (Extreme Greed)
 Main Topic: Market Analysis (confidence: 0.36)
 ```
-![Market Sentiment Gauge](images/Market Sentiment Gauge.png)
+![Market Sentiment Gauge](images/Market%20Sentiment%20Gauge.png)
 
 ## How It Works
 ### Sentiment Analysis
