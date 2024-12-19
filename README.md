@@ -131,10 +131,8 @@ Processed: What's ahead for the markets in 2025, according to experts
 Summary: U.S. stocks rose in 2024, fueled by the unprecedented surge of artificial intelligence. Inflation also eased after a couple of years of persistent price pressure. The results of the presidential election provided an additional boost, propelling the Dow to record highs.
 Market Sentiment: 8.7/10 (Extreme Greed)
 Main Topic: Market Analysis (confidence: 0.36)
-
-![Market Sentiment Gauge](images/Market Sentiment Gauge.png)
-
 ```
+![Market Sentiment Gauge](images/Market Sentiment Gauge.png)
 
 ## How It Works
 ### Sentiment Analysis
