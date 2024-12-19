@@ -25,7 +25,7 @@ This project analyzes financial news articles using Natural Language Processing 
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/MaxStam1/AI-and-GPT-Bootcamp-Final-Project.git
+git clone [https://github.com/MaxStam1/AI-and-GPT-Bootcamp-Final-Project.git](https://github.com/MaxStam1/AI-and-GPT-Bootcamp-Final-Project.git)
 ```
 3. Install required packages:
 pip install -r requirements.txt
