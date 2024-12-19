@@ -134,6 +134,10 @@ Main Topic: Market Analysis (confidence: 0.36)
 ```
 ![Market Sentiment Gauge](images/Market%20Sentiment%20Gauge.png)
 
+![Topic Distribution](images/Topic%20Distribution.png)
+
+![Sentiment Comparison](Sentiment%20Comparison.png)
+
 ## How It Works
 ### Sentiment Analysis
 - VADER provides rule-based sentiment scoring
