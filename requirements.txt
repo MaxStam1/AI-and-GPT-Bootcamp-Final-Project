@@ -1,0 +1,8 @@
+newsapi-python
+nltk
+transformers
+newspaper3k
+beautifulsoup4
+plotly
+emoji==0.6.0
+lxml[html_clean]
